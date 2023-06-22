@@ -1,0 +1,5 @@
+Luan Alves;567;luan2gmail.com;TI
+Leonidad;433;leonidas@gmail.com;Software
+Yure;909;yure@gmail.com;Design
+Daniel;598;daniel@gmail.com;eng Computacao
+italo assis;765;italo23@gmail.com;tecnologia

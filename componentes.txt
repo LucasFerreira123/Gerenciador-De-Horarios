@@ -1,0 +1,1 @@
+6754;poo;true;2;20;[Turma [codigo da Turma: 67875 | semestre: 2 | diasAulaSemana: 2 | horarios: [[Professor [Nome: Daniel | Identificacao: 598 | Email: daniel@gmail.com | Formacao: eng Computacao]]] | professores: []]];

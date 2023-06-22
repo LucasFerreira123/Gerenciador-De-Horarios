@@ -1,0 +1,2 @@
+45667;1;1;[08:50];[Professor [Nome: Luan Alves | Identificacao: 567 | Email: luan2gmail.com | Formacao: TI]]
+67875;2;2;[15:45, 20:00];[Professor [Nome: Daniel | Identificacao: 598 | Email: daniel@gmail.com | Formacao: eng Computacao]]
